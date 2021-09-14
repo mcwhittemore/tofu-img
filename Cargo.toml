@@ -1,8 +1,14 @@
 [package]
-name = "tofu"
-version = "0.1.0"
+name = "tofu-img"
+version = "1.0.0"
 authors = ["Matthew Chase Whittemore <mcwhittemore@gmail.com>"]
 edition = "2018"
+license = "MIT"
+readme = "README.md"
+categories = ["command-line-utilities"]
+homepage = "https://github.com/mcwhittemore/tofu-img"
+repository = "https://github.com/mcwhittemore/tofu-img"
+description = "Press a bunch of photos together until they become a big protein blob."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

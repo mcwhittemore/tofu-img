@@ -452,8 +452,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "tofu"
-version = "0.1.0"
+name = "tofu-img"
+version = "1.0.0"
 dependencies = [
  "image",
  "structopt",
