@@ -2,4 +2,11 @@
 
 Press a bunch of photos together until they become a big protein blob.
 
-![](./tofu.jpeg)
+![](./output.png)
+
+## Changelog
+
+### 1.0.0
+
+- Inital Release. Lets you "press" a bunch of photos together into a black and white protein blob.
+
